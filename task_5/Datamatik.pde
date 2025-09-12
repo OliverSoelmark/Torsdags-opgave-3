@@ -7,9 +7,9 @@ student Jonas = new student("Jonas", 23, true, "Hold B");
 boolean sameTeam = isClassmates(Oliver, Jonas);
 
 if (sameTeam){
-println(Oliver.name + " and " + Jonas.name + " are classmates");
+println(Oliver.name + " and " + Jonas.name + " is classmates");
 }else{
-println(Oliver.name + " and " + Jonas.name + " are not classmates");
+println(Oliver.name + " and " + Jonas.name + " is not classmates");
 }
 
 println(Oliver);

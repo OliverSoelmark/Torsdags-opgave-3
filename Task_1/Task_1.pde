@@ -16,6 +16,6 @@ return bye;
 
 String name (int age, String name){
 
-  println(" My name is " + name + ", i am" + age + "years old" );
+  println(" My name is " + name + ", i am " + age + " years old" );
   return name;
 }
